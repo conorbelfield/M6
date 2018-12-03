@@ -1,1 +1,4 @@
 # M6
+# Conor Belfield
+
+I used live coding for everything is this mission. I wanted to try replicate a bunch of jazz musicians jamming without any set rhythm. My sound is not nearly that good of course. I set up two live-coding loops that represented the drums and the melody and set them playing. Drums I kept fairly basic, and then the melody ended up being split into a few different loops. The piano was created to choose from one major chord across a couple octaves - I found this to give it a reasonably consistent sound. I made the length of the notes vary with a knit function that allows for weighted random chance. I similary used a ring with the dull_bell synth that was supposed to be my secondary bass. I struggled to find nice sounding synths. All in all, I actually enjoyed this quite a bit, and I am terrible at/ never really enjoy making music. My music is certainly still bad here, but I did enjoy it!
